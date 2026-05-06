@@ -1,0 +1,21 @@
+{"timestamp": "2026-03-18T16:17:45.186705", "event_type": "simulation_start", "platform": "twitter", "total_rounds": 192, "agents_count": 32}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.186857", "event_type": "round_start", "simulated_hour": 0}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.186912", "agent_id": 1, "agent_name": "研究人员", "action_type": "CREATE_POST", "action_args": {"content": "GraphRAG在航空安全报告分析中实现37%的事实错误率降低，结合自学习智能体提升检索精度45%。未来趋势包括动态决策系统和跨领域应用推进。"}, "result": null, "success": true}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.186965", "agent_id": 0, "agent_name": "GraphRAG Blog Post", "action_type": "CREATE_POST", "action_args": {"content": "微软GraphRAG项目通过知识图谱增强LLM推理能力，但在简单事实检索场景因高延迟（>300ms）面临挑战。需优化实时性和增量更新机制。"}, "result": null, "success": true}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.187002", "agent_id": 3, "agent_name": "neo4j", "action_type": "CREATE_POST", "action_args": {"content": "华为云与港中大（深圳）联合突破，首次提出GraphRAG统一框架，推动技术标准化和产业应用。"}, "result": null, "success": true}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.187043", "agent_id": 11, "agent_name": "厦门大学", "action_type": "CREATE_POST", "action_args": {"content": "厦门大学提出GraphRAG-Bench基准，旨在统一评估全局推理能力，促进技术发展和性能比较。"}, "result": null, "success": true}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.187075", "agent_id": 9, "agent_name": "Developer", "action_type": "CREATE_POST", "action_args": {"content": "GraphRAG在医疗领域（如糖尿病治疗社区）展示潜力，但需解决图谱构建复杂度和社区结构剧变时的全量重建问题。"}, "result": null, "success": true}
+{"round": 0, "timestamp": "2026-03-18T16:17:45.338843", "event_type": "round_end", "actions_count": 5}
+{"round": 1, "timestamp": "2026-03-18T16:17:45.338980", "event_type": "round_start", "simulated_hour": 0}
+{"round": 1, "timestamp": "2026-03-18T16:17:45.339020", "event_type": "round_end", "actions_count": 0}
+{"round": 2, "timestamp": "2026-03-18T16:17:45.339071", "event_type": "round_start", "simulated_hour": 1}
+{"round": 2, "timestamp": "2026-03-18T16:17:45.339104", "event_type": "round_end", "actions_count": 0}
+{"round": 3, "timestamp": "2026-03-18T16:17:45.339148", "event_type": "round_start", "simulated_hour": 2}
+{"round": 3, "timestamp": "2026-03-18T16:17:45.339179", "event_type": "round_end", "actions_count": 0}
+{"round": 4, "timestamp": "2026-03-18T16:17:45.339220", "event_type": "round_start", "simulated_hour": 3}
+{"round": 4, "timestamp": "2026-03-18T16:17:45.339248", "event_type": "round_end", "actions_count": 0}
+{"round": 5, "timestamp": "2026-03-18T16:17:45.339288", "event_type": "round_start", "simulated_hour": 4}
+{"round": 5, "timestamp": "2026-03-18T16:17:45.339317", "event_type": "round_end", "actions_count": 0}
+{"round": 6, "timestamp": "2026-03-18T16:17:45.339356", "event_type": "round_start", "simulated_hour": 5}
+{"round": 6, "timestamp": "2026-03-18T16:17:45.339385", "event_type": "round_end", "actions_count": 0}
+{"timestamp": "2026-03-18T16:17:45.339414", "event_type": "simulation_end", "platform": "twitter", "total_rounds": 6, "total_actions": 5}
